@@ -14,7 +14,7 @@ function solution(n) {
   return arr[count - 1];
 }
 
-console.log(solution(2));
+console.log(solution(1));
 
 //  입력 : 1
 //  출력 : 수성
